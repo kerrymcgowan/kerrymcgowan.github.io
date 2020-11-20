@@ -12,5 +12,5 @@ I am a Ph.D. candidate in WSU's School of Biological Sciences in [Dr. Joanna Kel
 My work centers around adaptation to extreme environments.
 I study poeciliid fishes that live in hydrogen sulfide-rich springs and cave environments.
 
-![La Lluvia](../UNADJUSTEDNONRAW_thumb_2b1d.jpg)
+![La Lluvia](../images/UNADJUSTEDNONRAW_thumb_2b1d.jpg)
 A sulfidic spring in Southern Mexico.
