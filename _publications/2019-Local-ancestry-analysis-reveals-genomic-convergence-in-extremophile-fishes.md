@@ -10,4 +10,4 @@ citation: 'Brown AP, McGowan KL, Schwarzkopf EJ, Greenway RS, Rodriquez LA, Tobl
 ---
 We used whole-genome resequencing to investigate genomic convergence in fishes (Poecilia spp.) that have repeatedly colonized hydrogen sulfide (H2S)-rich environments in Mexico.
 
-[Access via Philos T Roy Soc B](https://royalsocietypublishing.org/doi/10.1098/rstb.2018.0240)
+[Access via <i>Philos T Roy Soc B</i>](https://royalsocietypublishing.org/doi/10.1098/rstb.2018.0240)
