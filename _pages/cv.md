@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Download a copy of my CV [here](https://username.github.io/assets/CV_klm_20210601_public.pdf).
+Download a PDF of my CV [here].(https://kerrymcgowan.github.io/files/CV_klm_20210601_public.pdf).
