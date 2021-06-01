@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kerry McGowan / Ph.D. Candidate"
+title                    : "Kerry L. McGowan / Ph.D. Candidate"
 title_separator          : "-"
-name                     : &name "Kerry McGowan"
+name                     : &name "Kerry L. McGowan"
 description              : &description "Ph.D. Candidate in Joanna Kelley's Lab at Washington State University"
 url                      : https://kerrymcgowan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
