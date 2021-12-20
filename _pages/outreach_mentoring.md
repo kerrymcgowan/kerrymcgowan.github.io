@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "AmeriCorps, American Conservation Experience"
-permalink: /outreach_mentoring/
+permalink: /outreach/
 author_profile: true
 ---
 
