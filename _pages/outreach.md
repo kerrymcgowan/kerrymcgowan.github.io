@@ -1,5 +1,6 @@
 ---
 layout: archive
+title: "Outreach and Mentorship"
 permalink: /outreach/
 author_profile: true
 ---
