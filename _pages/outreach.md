@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 ### STEM Education Volunteer, Neill Public Library, Pullman, WA, 2021-present
--	Organized and lead STEM-focused activities for K-12 students, including making bird feeders, solving a forensics mystery, and testing the anti-microbial properties of spices.
+Organized and lead STEM-focused activities for K-12 students, including making bird feeders, solving a forensics mystery, and testing the anti-microbial properties of spices.
 
 ### Research Mentor to Undergraduates, Washington State University, Pullman, WA, 2019-present
 Guided three undergraduates through capped small RNA-sequencing data analysis using a high-performance computing cluster.
