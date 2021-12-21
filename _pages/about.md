@@ -14,4 +14,4 @@ I am a Ph.D. candidate in Washington State University's School of Biological Sci
 A sulfidic spring in Southern Mexico.
 
 ![Cueva del Azufre](../images/UNADJUSTEDNONRAW_thumb_2bb1.jpg)
-Cueva del Azufre is a sulfidic cave environment near Tapijulapa, Mexico. Cavefish are exposed to low/no light and show a regressed eye phenotype compared to surface fish exposed to full light.
+Cueva del Azufre is a sulfidic cave near Tapijulapa, Mexico. Cavefish are exposed to low/no light and show a regressed eye phenotype compared to surface fish exposed to full light.
