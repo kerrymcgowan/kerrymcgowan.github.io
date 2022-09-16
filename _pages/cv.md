@@ -11,4 +11,4 @@ redirect_from:
 
 Download my full [CV](https://kerrymcgowan.github.io/files/CV_klm_20211216_public.pdf).
 
-Download my 1 page [resume](https://kerrymcgowan.github.io/files/CV_KMcGowan_20211216_public.pdf).
+Download my 1 page [resume](https://kerrymcgowan.github.io/files/CV_KMcGowan_20220915_public.pdf).
